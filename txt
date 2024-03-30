@@ -1,0 +1,3 @@
+Open htdocs -> Open Terminal In Your Project Folder -> Write: pwd-> Copy Path Link
+
+Close  Terminal ->  Open New Terminal In Root -> Type:  sudo chmod -R 777 (Path Link) -> Provide Password
